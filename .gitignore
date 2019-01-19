@@ -1,3 +1,23 @@
+# MicroVision: Beim Compilen erstellte Dateien
+*.axf
+*.htm
+*.lnp
+*.map
+.lst
+
+# MicroVision: Datei-backups
+*.bak
+
+# MicroVision: Nutzer-spezifische Dateien
+*.Akii
+*.bohr
+*.DTD
+*.pi
+*.Johannes
+
+
+# Von github voreingestellte C-Dateien:
+
 # Prerequisites
 *.d
 
